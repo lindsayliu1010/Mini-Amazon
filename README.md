@@ -5,6 +5,10 @@ In this project, we built a miniature version of Amazon. On this website, seller
 
 ##### Divya Nataraj, Gargi Mahadeshwar, Lindsay Liu, Soumya Bodavula, Pradnesh Kolluru
 
+## Website Screenshots
+
+https://duke.box.com/s/mfiozv62yg9o5b8wk7vp4fdbysswm2jt
+
 ## Video Demo Link
 
 https://duke.box.com/s/gemskwlxdgldfj69mpgl2frp3s45r4oj
