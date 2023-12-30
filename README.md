@@ -4,3 +4,11 @@ In this project, we built a miniature version of Amazon. On this website, seller
 ### The Pack
 
 ##### Divya Nataraj, Gargi Mahadeshwar, Lindsay Liu, Soumya Bodavula, Pradnesh Kolluru
+
+### Video Demo Link
+
+https://duke.box.com/s/gemskwlxdgldfj69mpgl2frp3s45r4oj
+
+## Features Link
+
+https://duke.box.com/s/50ybpw9xl5cptefsrxyhqxnmrblaagff
